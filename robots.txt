@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7-y.xyz/expert-lemon-law-houston/sitemap.xml
