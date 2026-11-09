@@ -362,7 +362,9 @@
   "logo": "assets/logo.png",
   "structure": "ledger",
   "imageSet": "set-1",
-  "verification": [],
+  "verification": [
+    "TyDq5vSoax8aiacLYC1ilWFEE_pecTzoRgB1_hWr-0k"
+  ],
   "home": {
     "sub": "We review repair records, warranty papers, and vehicle concerns before discussing the next step in a lemon law matter with the caller.",
     "title": "Expert Lemon Law Houston | Houston, TX",
@@ -372,7 +374,8 @@
       "We work from 440 Louisiana St in Houston, TX, and hear from vehicle owners across Houston, West University Place, Southside Place, and Bellaire. Our office reviews records from these Texas locations and other parts of the state.",
       "We look at recurring repair visits, engine stalls, transmission failures, electrical faults, brake concerns, warning lights, and warranty paperwork. Our work includes New Car Lemon Law, Defective Truck Claims, RV Lemon Law, Motorcycle Lemon Law, Car Warranty Claims, and Auto Dealer Fraud. We do not take on matters unrelated to vehicle defects, warranties, or dealer conduct.",
       "During a first call, we ask for the purchase or lease agreement, repair orders, warranty booklet, service invoices, correspondence, and vehicle identification number. We review dates, mileage entries, reported concerns, and repair history before discussing what happens next."
-    ]
+    ],
+    "servicesLede": "The six jobs we are called out for most. Each has a page of its own, with what the work involves and what changes the price."
   },
   "now": "2026-11-01T02:42:56.267Z"
 }
